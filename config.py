@@ -1,0 +1,13 @@
+MODEL_PATH = ""
+EMBEDDING_PATH = ""
+RERANKER_PATH = ""
+TEMP_DIR = "./temp_upload"
+VECTOR_DIR = "./data/db"
+INPUT_DIR = "./data/inputs/"
+VERBOSE = True
+VALID_NUM = 50
+MAX_TOKENS = 32768
+TEMPERARURE = 0.25
+TOP_P = 0.85
+TOP_K = 20
+DO_SAMPLE = True
